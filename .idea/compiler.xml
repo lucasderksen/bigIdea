@@ -6,18 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="client" />
         <module name="sharedmodel" />
         <module name="websocketsclient" />
-        <module name="client" />
         <module name="websocketserver" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="client" target="11" />
-      <module name="jetty-starter" target="11" />
-      <module name="sharedmodel" target="11" />
-      <module name="websocketsclient" target="11" />
-      <module name="websocketserver" target="11" />
+      <module name="client" target="8" />
+      <module name="jetty-starter" target="8" />
+      <module name="sharedmodel" target="8" />
+      <module name="websocketsclient" target="8" />
+      <module name="websocketserver" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
