@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/restclient/client.iml" filepath="$PROJECT_DIR$/restclient/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jetty-starter.iml" filepath="$PROJECT_DIR$/jetty-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharedmodel/sharedmodel.iml" filepath="$PROJECT_DIR$/sharedmodel/sharedmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocketsclient/websocketsclient.iml" filepath="$PROJECT_DIR$/websocketsclient/websocketsclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocketserver/websocketserver.iml" filepath="$PROJECT_DIR$/websocketserver/websocketserver.iml" />
+    </modules>
+  </component>
+</project>
